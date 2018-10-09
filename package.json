@@ -18,5 +18,14 @@
 	"engines" : {
 	    "node": ">=4.3.2",
 	    "homebridge": ">=0.4.43"
+	},
+   "engines": {
+		"node": ">=6.8.1",
+		"homebridge": ">=0.4.6"
+	},
+	"dependencies": {
+		"node-wiring-pi": "^0.0.3",
+		"sleep": "^5.1.0",
+		"epoll" : "^0.1.21"
 	}
 }

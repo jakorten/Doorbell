@@ -1,0 +1,25 @@
+{
+  "name": "homebridge-doorbell",
+  "version": "1.0.2",
+  "description": "homebridge gpio doorbell plugin",
+  "main": "index.js",
+  "keywords": [
+    "homebridge-plugin",
+    "homebridge",
+    "homekit"
+  ],
+  "repository": {
+		"type": "git",
+		"url": "git+https://github.com/jakorten/Doorbell.git"
+	},
+  "author": "JAKorten",
+  "license": "ISC",
+  "dependencies": {
+    "rpi-gpio": "^0.9.1"
+  },
+  "homepage": "https://github.com/jakorten/Doorbell",
+	"engines" : {
+	    "node": ">=0.12.0",
+	    "homebridge": ">=0.2.0"
+	}
+}

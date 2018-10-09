@@ -1,6 +1,6 @@
 {
   "name": "homebridge-doorbell",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "homebridge gpio doorbell plugin",
   "main": "index.js",
   "keywords": [
@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/jakorten/Doorbell",
 	"engines" : {
-	    "node": ">=0.12.0",
-	    "homebridge": ">=0.2.0"
+	    "node": ">=4.3.2",
+	    "homebridge": ">=0.4.43"
 	}
 }

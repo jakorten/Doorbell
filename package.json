@@ -14,9 +14,6 @@
 	},
   "author": "JAKorten",
   "license": "ISC",
-  "dependencies": {
-    "rpi-gpio": "^0.9.1"
-  },
   "homepage": "https://github.com/jakorten/Doorbell",
 	"engines" : {
 	    "node": ">=4.3.2",
